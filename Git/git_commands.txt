@@ -3,11 +3,12 @@
 ## GIT COMMANDS
 
 ## Setup your name and email using below command
-git config --global user.email "yourname@mail.com"
+git config --global user.email"yourname@mail.com"
 git config --global user.name "your_name"
 
 ## Initialize an empty git repo in local
 git init
+
 
 ## Clone a remote repository
 git clone <url>
